@@ -16,26 +16,26 @@ colors:
   # Colors the cursor will use if `custom_cursor_colors` is true
   cursor:
     text: '0x020202'
-    cursor: '0xffeecc'
+    cursor: '0xFFEECC'
 
   # Normal colors
   normal:
     black:   '0x000000'
-    red:     '0xcc4343'
-    green:   '0x88cc43'
-    yellow:  '0xccaa43'
-    blue:    '0x4365cc'
-    magenta: '0xcc43aa'
-    cyan:    '0x43cccc'
+    red:     '0xCC4343'
+    green:   '0x88CC43'
+    yellow:  '0xCCAA43'
+    blue:    '0x4365CC'
+    magenta: '0xCC43AA'
+    cyan:    '0x43CCCC'
     white:   '0xFFFFFF'
 
   # Bright colors
   bright:
     black:   '0x000000'
-    red:     '0xd87272'
-    green:   '0xa5d872'
-    yellow:  '0xd8bf72'
-    blue:    '0x728bd8'
-    magenta: '0xd872bf'
-    cyan:    '0x72d8d8'
+    red:     '0xFE1010'
+    green:   '0x88FE10'
+    yellow:  '0xFEC310'
+    blue:    '0x104BFE'
+    magenta: '0x8810FE'
+    cyan:    '0x10FEFE'
     white:   '0xFFFFFF'

@@ -1,5 +1,11 @@
 # conflux_alacritty
-The Gedit Conflux color palette version for the Alacritty GPU enchanced terminal.
+
+  DESCRIPTION
+ 
+ This color palette was inspired by the crimson editor
+ gedit theme by Dan VanMullen. All 8 colors are equally distributed 
+ among the hue wheel, illustrating the armonious consonance of nature 
+ and programming.
 
   INSTALLATION
 

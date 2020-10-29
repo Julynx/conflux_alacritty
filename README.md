@@ -1,4 +1,8 @@
-# conflux_alacritty
+# Conflux Alacritty
+
+Conflux color theme for Alacritty.
+
+![alt text](Alacritty_Conflux.png)
 
   DESCRIPTION
  
